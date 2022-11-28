@@ -8,6 +8,7 @@ body{
     font-family:"work sans",sans-serif;
 
 }
-.container 
+.container {
+padding-left: 15px;
 
 /* end global rules*/
