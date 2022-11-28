@@ -42,3 +42,6 @@ margin-right: auto;
     justify-content: space-between;
     align-items: center;
   }
+  .header .logo {
+    width: 60px;
+  }
