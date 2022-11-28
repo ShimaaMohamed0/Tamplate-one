@@ -31,6 +31,9 @@ margin-right: auto;
     .container {
       width: 1170px;
     }
-  }
-
+}
 /* end global rules*/
+/* Start Header */
+.header {
+    padding: 20px;
+  }
