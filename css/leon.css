@@ -85,6 +85,7 @@ header .links .icon span:first-child {
     .header .links:hover ul {
       display: block;
     }
+    .header .links ul li a {
 
 
   
