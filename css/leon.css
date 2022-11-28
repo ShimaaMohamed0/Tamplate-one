@@ -45,3 +45,6 @@ margin-right: auto;
   .header .logo {
     width: 60px;
   }
+  .header .links {
+    position: relative;
+  }
