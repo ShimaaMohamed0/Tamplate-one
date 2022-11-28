@@ -112,6 +112,7 @@ header .links .icon span:first-child {
 /* Start Landing Section */
 .landing {
   background-image: url(../images/awesome-mountain01.jpg);
+  background-size: cover;
 
 
       
