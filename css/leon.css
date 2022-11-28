@@ -65,3 +65,5 @@ margin-right: auto;
 header .links .icon span:first-child {
     width: 100%;
   }
+  .header .links .icon span:nth-child(2) {
+    width: 60%;
