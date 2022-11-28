@@ -67,3 +67,5 @@ header .links .icon span:first-child {
   }
   .header .links .icon span:nth-child(2) {
     width: 60%;
+    transition: var(--main-duration);
+}
