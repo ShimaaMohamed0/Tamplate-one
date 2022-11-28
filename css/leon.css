@@ -77,5 +77,6 @@ header .links .icon span:first-child {
     margin: 0;
     padding: 0;
     background-color: #f6f6f6;
-    
+    position: absolute;
+
   
