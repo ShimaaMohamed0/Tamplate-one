@@ -58,3 +58,4 @@ margin-right: auto;
     justify-content: flex-end;
   }
   .header .links .icon span {
+    background-color: #333;
