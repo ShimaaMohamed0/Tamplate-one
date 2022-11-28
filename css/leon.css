@@ -73,4 +73,5 @@ header .links .icon span:first-child {
     width: 100%;
   }
   .header .links ul {
+    list-style: none;
   
