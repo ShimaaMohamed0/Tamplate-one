@@ -86,6 +86,8 @@ header .links .icon span:first-child {
       display: block;
     }
     .header .links ul li a {
+      display: block;
+      padding: 15px;
 
 
   
