@@ -98,7 +98,7 @@ header .links .icon span:first-child {
       display: block;
       padding: 15px;
       text-decoration: none;
-      color: #333;
+      color:aqua;
       transition: var(--main-duration);
 }
 
@@ -111,7 +111,7 @@ header .links .icon span:first-child {
 /* End Header */
 /* Start Landing Section */
 .landing {
-  background-image: url(../images/awesome-mountain01.jpg);
+  background-image: url(..\images/awesome-mountain01.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
