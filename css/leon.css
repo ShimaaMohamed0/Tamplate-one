@@ -33,6 +33,11 @@ margin-right: auto;
     }
 }
 /* end global rules*/
+/* Start Components */
+.special-heading {
+  color: #ebeced;
+  
+
 /* Start Header */
 .header {
     padding: 20px;
