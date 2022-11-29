@@ -307,7 +307,9 @@ header .links .icon span:first-child {
       margin: 0 auto 60px;
     }
   }
-  
+  .about .about-content .image::before {
+
+
   
 
 
