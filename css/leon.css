@@ -266,6 +266,9 @@ header .links .icon span:first-child {
   background-color: white;
 }
 .portfolio .portfolio-content .card img {
+  max-width: 100%;
+}
+.portfolio .portfolio-content .card .info {
 
 
 
