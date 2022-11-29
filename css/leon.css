@@ -302,6 +302,12 @@ header .links .icon span:first-child {
     width: 250px;
     height: 375px;
   }
+  @media (max-width: 991px) {
+    .about .about-content .image {
+      margin: 0 auto 60px;
+    }
+  }
+  
   
 
 
