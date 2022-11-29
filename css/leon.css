@@ -138,6 +138,7 @@ header .links .icon span:first-child {
 /* End Landing Section */
 /* Start Features */
 .features {
+  padding-top: var(--section-padding);
 
 
 
