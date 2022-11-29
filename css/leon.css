@@ -275,7 +275,12 @@ header .links .icon span:first-child {
   margin: 0;
 }
 .portfolio .portfolio-content .card .info p {
-  
+  color: #777;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+/* End Portfolio */
+
 
 
 
