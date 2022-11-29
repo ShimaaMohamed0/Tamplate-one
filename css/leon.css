@@ -52,6 +52,12 @@ margin-right: auto;
   .special-heading {
     font-size: 60px;
   }
+  .special-heading + p {
+    margin-top: -20px;
+  }
+}
+/* End Components */
+  
 
 /* Start Header */
 .header {
@@ -187,7 +193,8 @@ header .links .icon span:first-child {
 }
 /* End Features */
 
-      
+      /* Start Services  */
+.services {
 
 
   
