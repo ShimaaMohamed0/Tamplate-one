@@ -139,7 +139,7 @@ header .links .icon span:first-child {
 /* Start Features */
 .features {
   padding-top: var(--section-padding);
-
+  padding-bottom: var(--section-padding);
 
 
 
