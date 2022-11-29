@@ -263,7 +263,10 @@ header .links .icon span:first-child {
   margin-top: 80px;
 }
 .portfolio .portfolio-content .card {
-  
+  background-color: white;
+}
+.portfolio .portfolio-content .card img {
+
 
 
 
