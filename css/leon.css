@@ -257,7 +257,14 @@ header .links .icon span:first-child {
   background-color: var(--section-background);
 }
 .portfolio .portfolio-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 30px;
+  margin-top: 80px;
+}
+.portfolio .portfolio-content .card {
   
+
 
 
 
