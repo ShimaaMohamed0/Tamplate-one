@@ -119,6 +119,7 @@ header .links .icon span:first-child {
 .landing .intro-text {
   position: absolute;
   left: 50%;
+  top: 50%;
 
 
 
