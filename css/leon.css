@@ -254,6 +254,11 @@ header .links .icon span:first-child {
 .portfolio {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
+  background-color: var(--section-background);
+}
+.portfolio .portfolio-content {
+  
+
 
 
 
