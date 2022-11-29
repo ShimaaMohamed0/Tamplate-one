@@ -269,6 +269,9 @@ header .links .icon span:first-child {
   max-width: 100%;
 }
 .portfolio .portfolio-content .card .info {
+  padding: 20px;
+}
+.portfolio .portfolio-content .card .info h3 {
 
 
 
