@@ -357,6 +357,7 @@ header .links .icon span:first-child {
 /* End About */
 /* Start Contact */
 .contact {
+  padding-top: var(--section-padding);
 
 
 
