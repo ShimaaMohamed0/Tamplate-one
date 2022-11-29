@@ -215,7 +215,12 @@ header .links .icon span:first-child {
   }
 }
 .services .services-content .srv i {
+  color: var(--main-color);
+  flex-basis: 60px;
+}
+.services .services-content .srv .text {
   
+
 
 
 
