@@ -154,6 +154,8 @@ header .links .icon span:first-child {
   text-align: center;
 }
 .features .feat i {
+  color: var(--main-color);
+}
 
 
       
