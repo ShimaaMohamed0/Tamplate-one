@@ -298,6 +298,7 @@ header .links .icon span:first-child {
     }
   }
   .about .about-content .image {
+    position: relative;
 
 
 
