@@ -272,6 +272,10 @@ header .links .icon span:first-child {
   padding: 20px;
 }
 .portfolio .portfolio-content .card .info h3 {
+  margin: 0;
+}
+.portfolio .portfolio-content .card .info p {
+  
 
 
 
