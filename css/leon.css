@@ -358,6 +358,7 @@ header .links .icon span:first-child {
 /* Start Contact */
 .contact {
   padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 
 
 
